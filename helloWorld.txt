@@ -10,4 +10,4 @@ Hello World!!!! Hello git!!!!    master modified again
 Hello World!!!! Hello git!!!!    master modified this line
 master
 this is the master branch 为什么这行不能merge进去.!
-
+hot-fix
